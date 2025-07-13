@@ -1,6 +1,9 @@
-# Sanjana Biswas
+<p align="center">
+  <img src="assets/moon_space.svg" alt="Banner" width="100%" />
+</p>
 
-> *CSE Undergrad | Full Stack Developer | Tech Explorer*
+<h1 align="center">🌙 Sanjana Biswas</h1>
+<p align="center"><em>CSE Undergrad | Full Stack Developer | Tech Explorer</em></p>
 
 I'm a Computer Science student passionate about building practical, user-centered software. My interests span full-stack development, AI/ML, and creative projects that combine logic and design. I enjoy solving problems and creating meaningful digital experiences.
 
