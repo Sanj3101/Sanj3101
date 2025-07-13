@@ -1,58 +1,74 @@
-# 👋 Hi, I'm Sanj!
+# Sanjana Biswas
 
-🎓 CSE undergrad | 💻 Tech enthusiast | 🎨 Creative thinker  
-🔍 Exploring Web Dev, AI/ML, and building meaningful software  
-💬 Always up for tech talk, open-source, or just brainstorming wild ideas
+> *CSE Undergrad | Full Stack Developer | Tech Explorer*
 
----
-
-## 🚀 Technical Skills
-
-**Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Frameworks & Tools:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+I'm a Computer Science student passionate about building practical, user-centered software. My interests span full-stack development, AI/ML, and creative projects that combine logic and design. I enjoy solving problems and creating meaningful digital experiences.
 
 ---
 
-## 🌟 Notable Projects
+## ⚒️ Technical Skills
 
-- 🧠 **Mental Health Text Classification** – Uses NLP to detect mental health indicators in text  
-- 🎯 **Quiz App** – Dynamic question-fetching quiz with an intuitive UI  
-- 🕹️ **Coding RPG Platform** – A gamified way to learn programming through debugging (in progress)  
+**Languages**  
+C · C++ · Python · JavaScript · SQL
 
----
+**Web & Frameworks**  
+React.js · Node.js · Express.js · Firebase · Streamlit · Flask (basic)
 
-## 🏆 Achievements & Interests
+**Tools & Platforms**  
+Git · VS Code · Supabase · MongoDB · MySQL · Postman · AWS (beginner)
 
-- 📌 Qualified in the top 30 teams in Smart India Hackathon 2024
-- 💬 Active member in women-in-tech communities and dev societies
-- 📷 Love photography, painting, and noticing life’s subtle details
-
----
-
-## 🧠 Currently Learning
-
-- 📱 Mobile apps with C# and .NET Framework  
-- 🤖 Generative AI + Computer Vision  
-- 🔗 Real-time features using WebSockets and APIs  
-- 🌐 API integrations (OpenAI, Firebase, Judge0, etc.)
+**Libraries**  
+pandas · NumPy · scikit-learn (basic) · Matplotlib
 
 ---
 
-## 🤝 Let's Connect
+## 📌 Selected Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana783/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://portfolio-liard-seven-16.vercel.app/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sanjanabiswas557@gmail.com)
+### 🌿 PlantPal (Ongoing)
+A full-stack plant care app with reminder scheduling, image uploads to Supabase, and user authentication. Built for SIH 2024.
+
+> React · Node.js · Express · Prisma · Supabase · JWT Auth
+
+### 🧠 Mental Health Classification
+Built a BERT-based classifier for emotional state detection from text. Achieved 92% accuracy and deployed with Streamlit.
+
+> Python · Hugging Face · PyTorch · Streamlit
+
+### 🧪 Quiz App
+A quiz platform with dynamic API questions, real-time scoring, and smooth UX navigation.
+
+> React · Tailwind CSS · REST API
+
+### 🕹️ Coding RPG Platform (In Progress)
+Gamified learning app to teach Python debugging with animations and interactive world maps.
+
+> React · Firebase · GSAP
 
 ---
 
-> 🧭 *“Appreciating the little things — one bug fix, one frame, and one story at a time.”*
+## 📍 Achievements & Involvement
+
+- Top 30 National Finalists – *Smart India Hackathon 2024*
+- Member – Women in Tech communities and open source cohorts
+- Volunteered as a peer tech mentor and UI/UX reviewer in club projects
+
+---
+
+## 🔭 Currently Exploring
+
+- Microservices and serverless architecture  
+- Building real-time systems using WebSockets  
+- Spring Boot and backend scalability  
+- Computer Vision with deep learning models  
+
+---
+
+## 📫 Let's Connect
+
+- **LinkedIn**: [linkedin.com/in/sanjana783](https://www.linkedin.com/in/sanjana783)
+- **Portfolio**: [portfolio-liard-seven-16.vercel.app](https://portfolio-liard-seven-16.vercel.app)
+- **Email**: [sanjanabiswas557@gmail.com](mailto:sanjanabiswas557@gmail.com)
+
+---
+
+> *“Appreciating the little things — one bug fix, one frame, and one story at a time.”*
